@@ -1,6 +1,7 @@
-#include<stdio>
-
-int main(void){
-  printf("hello story\n");
-  return 0;
-}
+//#include<stdio>
+//
+//int main(void){
+//  printf("hello story\n");
+//  return 0;
+//}
+//
