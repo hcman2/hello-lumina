@@ -1,4 +1,3 @@
-# hello-world
-first test for github
-Secode version
-this is branch0
+# hello-lumina
+first version of the test app.
+this is master branch
